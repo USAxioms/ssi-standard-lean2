@@ -2,6 +2,12 @@
 
 Lean 4 formalization of **Safe Super Intelligence: Definition, Architecture, and Verification Standard v1.0** by Michael Aaron Russell, Specification I of the Safe Super Intelligence specification family.
 
+@dataset{safe_super_intelligence_standard_2026,
+  title={Safe Super Intelligence: Definition, Architecture, and Verification Standard},
+  DOI={10.5281/zenodo.23101683},
+  publisher={Zenodo},
+  year={2026}
+}
 > **Safe Super Intelligence** is an advanced intelligence architecture in which externally consequential actions are constrained by a formally specified, human-governed, machine-verifiable system of safety invariants, authorization, capability boundaries, provenance, and mediated execution.
 
 $$SSI(q,u) \iff SI(q) \land VS(q) \land HG(q) \land AUTH(q,u) \land VER(q,u)$$
