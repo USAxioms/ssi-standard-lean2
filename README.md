@@ -1,7 +1,7 @@
 # Safe Super Intelligence Standard v1.0 — Lean 4 Formalization
 
 Lean 4 formalization of **Safe Super Intelligence: Definition, Architecture, and Verification Standard v1.0** by Michael Aaron Russell, Specification I of the Safe Super Intelligence specification family.
-
+0009-0001-3360-6709
 @dataset{safe_super_intelligence_standard_2026,
   title={Safe Super Intelligence: Definition, Architecture, and Verification Standard},
   DOI={10.5281/zenodo.23101683},
